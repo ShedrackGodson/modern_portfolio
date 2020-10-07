@@ -1,5 +1,5 @@
 # modern_portfolio
-Responsive Portfolio Website
+Awesome & Responsive Portfolio Website
 Home Page
 Full Names
 Career Paths
